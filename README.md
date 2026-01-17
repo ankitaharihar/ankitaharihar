@@ -39,18 +39,28 @@ Hi there! I'm **Ankita**, a passionate developer, tech enthusiast, and explorer 
 
 
 
-### 🔄 What I'm Currently Working On:
-- 🚀 Building a cloud-native microservices architecture
-- 📚 Learning advanced Kubernetes patterns and GitOps
-- 🔧 Contributing to open-source DevOps tools
-- 📖 Writing technical blogs about cloud infrastructure
+### 🔄 What I’m Currently Working On
+
+-💻 Building full-stack web projects using modern technologies
+
+-📚 Improving problem-solving skills with DSA and core CS concepts
+
+-⚙️ Learning backend development and APIs step by step
+
+-✍️ Creating tech content and sharing my learning journey online
 
 
-### 🤝 Open for Collaboration On
-- 🌟 Open-source DevOps tools and utilities
-- 🔧 Cloud-native application development
-- 📚 Technical writing and documentation
-- 🎓 Mentoring junior developers in DevOps practices
+----
+
+🤝 Open for Collaboration On
+
+-🌱 Beginner-friendly development projects
+
+-💻 Web development (Frontend / Backend basics)
+
+-📘 Learning-focused tech content (blogs, notes, guides)
+
+-🤝 Team projects to gain real-world experience
 
 ---
 
