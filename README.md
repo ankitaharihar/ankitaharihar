@@ -41,26 +41,25 @@ Hi there! I'm **Ankita**, a passionate developer, tech enthusiast, and explorer 
 
 ### 🔄 What I’m Currently Working On
 
--💻 Building full-stack web projects using modern technologies
+- 💻 Building full-stack web projects using modern technologies
 
--📚 Improving problem-solving skills with DSA and core CS concepts
+- 📚 Improving problem-solving skills with DSA and core CS concepts
 
--⚙️ Learning backend development and APIs step by step
+- ⚙️ Learning backend development and APIs step by step
 
--✍️ Creating tech content and sharing my learning journey online
+- ✍️ Creating tech content and sharing my learning journey online
 
 
-----
 
-🤝 Open for Collaboration On
+### 🤝 Open for Collaboration On
 
--🌱 Beginner-friendly development projects
+- 🌱 Beginner-friendly development projects
 
--💻 Web development (Frontend / Backend basics)
+- 💻 Web development (Frontend / Backend basics)
 
--📘 Learning-focused tech content (blogs, notes, guides)
+- 📘 Learning-focused tech content (blogs, notes, guides)
 
--🤝 Team projects to gain real-world experience
+- 🤝 Team projects to gain real-world experience
 
 ---
 
