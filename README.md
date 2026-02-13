@@ -14,6 +14,15 @@ Hi there! I'm **Ankita** — a curious developer and tech enthusiast who enjoys 
 - 🛠️ Tools I’m working with: **Git, GitHub, GitHub Actions**
 
 ---
+## 🌟 Featured Projects
+
+**WebCore – Frontend Learning Hub**  
+A beginner-friendly website covering HTML, CSS, Git, Linux, SEO, and CI/CD fundamentals.
+
+🔗 Live: https://adownloader17.github.io/Webcore/  
+💻 Repo: https://github.com/Adownloader17/Webcore
+
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
