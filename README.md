@@ -19,7 +19,7 @@ Hi there! I'm **Ankita** — a curious developer and tech enthusiast who enjoys 
 **WebCore – Frontend Learning Hub**  
 A beginner-friendly website covering HTML, CSS, Git, Linux, SEO, and CI/CD fundamentals.
 
-🔗 Live: https://ankitaharihar.github.io/Webcore/
+🔗 Live: [https://ankitaharihar.github.io/Webcore/]
 💻 Repo: https://github.com/ankitaharihar/Webcore
 
 ---
