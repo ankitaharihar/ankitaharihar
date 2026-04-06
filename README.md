@@ -1,5 +1,4 @@
 <!-- Typing Animation -->
-<!-- Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita;Backend+Enthusiast;Exploring+DevOps;Building+Real+World+Projects" />
 </p>
@@ -17,7 +16,7 @@
 ## 🌟 Featured Projects
 
 ### 🔹 GitHub Profile Intelligence Pro  
-Analyze GitHub profiles with real-time insights using GitHub API & serverless architecture  
+A full-stack app that analyzes GitHub profiles and provides real-time insights using GitHub API & serverless functions  
 🔗 https://github-profileanalysis.netlify.app/  
 💻 https://github.com/ankitaharihar/Github-profile-analysis-tool  
 
