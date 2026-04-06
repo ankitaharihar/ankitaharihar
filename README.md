@@ -1,77 +1,47 @@
-<!-- Profile Banner (animated typing + SVG) -->
+<!-- Typing Animation -->
+<!-- Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita;Welcome+to+my+GitHub+Universe;Coder+%7C+Thinker+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita;Backend+Enthusiast;Exploring+DevOps;Building+Real+World+Projects" />
 </p>
 
-
+---
 
 ## 🙋‍♀️ About Me
-
-Hi there! I'm **Ankita** — a curious developer and tech enthusiast who enjoys building, learning, and improving step by step.
-
-- 🌱 Currently learning and experimenting with **CI/CD & GitHub Actions**  
-- 💼 Interested in **Backend Development** and **DevOps fundamentals**  
-- 🛠️ Tools I’m working with: **Git, GitHub, GitHub Actions**
+- 💻 Interested in Backend Development  
+- ⚙️ Exploring DevOps concepts  
+- 🛠️ Working with Git & GitHub  
+- 🚀 Focused on building real-world projects  
 
 ---
+
 ## 🌟 Featured Projects
 
-🔹 GitHub Profile Intelligence Pro
-
-A full-stack web application that analyzes GitHub profiles and provides real-time insights like repositories, followers, and developer stats using GitHub API and Netlify Functions.
-
-🔗 Live: https://github-profileanalysis.netlify.app/
-
-💻 Repo: https://github.com/ankitaharihar/Github-profile-analysis-tool
+### 🔹 GitHub Profile Intelligence Pro  
+Analyze GitHub profiles with real-time insights using GitHub API & serverless architecture  
+🔗 https://github-profileanalysis.netlify.app/  
+💻 https://github.com/ankitaharihar/Github-profile-analysis-tool  
 
 ---
 
-🔹 WebCore – Frontend Learning Hub
-
-A beginner-friendly website that teaches HTML, CSS, Git, Linux, SEO, and CI/CD fundamentals with structured and easy-to-understand content.
-
-🔗 Live: https://ankitaharihar.github.io/Webcore/
-
-💻 Repo: https://github.com/ankitaharihar/Webcore
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+### 🔹 WebCore – Frontend Learning Hub  
+A beginner-friendly platform covering HTML, CSS, Git, Linux, SEO, and CI/CD basics  
+🔗 https://ankitaharihar.github.io/Webcore/  
+💻 https://github.com/ankitaharihar/Webcore  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,flask,mongodb,mysql,git,github,linux" />
+</p>
 
 ---
 
-## 🔄 What I’m Currently Working On
-
-- 💻 Building and polishing real-world frontend projects  
-- ⚙️ Strengthening backend fundamentals and REST APIs  
-- 📚 Practicing DSA to improve problem-solving skills  
-- 🚀 Learning CI/CD workflows with GitHub Actions  
-- ✍️ Sharing my learning journey through tech content  
-
----
-
-## 🤝 Open to Collaborate On
-
-- 🌱 Beginner-friendly open source projects  
-- 💻 Frontend-focused web development work  
-- ⚙️ Learning-based backend/API projects  
-- 📘 Technical notes, blogs, and educational content  
-- 🤝 Team projects to gain real-world exposure  
+## 🚀 Currently Working On
+- Backend & REST APIs  
+- DSA & problem solving  
+- Learning CI/CD concepts  
 
 ---
 
@@ -83,6 +53,7 @@ A beginner-friendly website that teaches HTML, CSS, Git, Linux, SEO, and CI/CD f
 
 ---
 
+<!-- Footer Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00BFFF&height=100&section=footer"/>
 </p>
