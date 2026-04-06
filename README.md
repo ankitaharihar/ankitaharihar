@@ -16,14 +16,23 @@ Hi there! I'm **Ankita** — a curious developer and tech enthusiast who enjoys 
 ---
 ## 🌟 Featured Projects
 
-**WebCore – Frontend Learning Hub**  
-A beginner-friendly website covering HTML, CSS, Git, Linux, SEO, and CI/CD fundamentals.
+🔹 GitHub Profile Intelligence Pro
+
+A full-stack web application that analyzes GitHub profiles and provides real-time insights like repositories, followers, and developer stats using GitHub API and Netlify Functions.
+
+🔗 Live: https://github-profileanalysis.netlify.app/
+
+💻 Repo: https://github.com/ankitaharihar/Github-profile-analysis-tool
+
+---
+
+🔹 WebCore – Frontend Learning Hub
+
+A beginner-friendly website that teaches HTML, CSS, Git, Linux, SEO, and CI/CD fundamentals with structured and easy-to-understand content.
 
 🔗 Live: https://ankitaharihar.github.io/Webcore/
 
 💻 Repo: https://github.com/ankitaharihar/Webcore
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
