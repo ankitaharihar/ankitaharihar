@@ -17,8 +17,8 @@
 
 ### 🔹 GitHub Profile Intelligence Pro  
 A full-stack app that analyzes GitHub profiles and provides real-time insights using GitHub API & serverless functions  
-🔗 https://github-profileanalysis.netlify.app/  
-💻 https://github.com/ankitaharihar/Github-profile-analysis-tool  
+🔗 https://repoinsight-analysis.netlify.app/
+💻 https://github.com/ankitaharihar/RepoInsight 
 
 ---
 
