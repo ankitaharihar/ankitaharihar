@@ -32,7 +32,7 @@ A beginner-friendly platform covering HTML, CSS, Git, Linux, SEO, and CI/CD basi
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,flask,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,flask,mongodb,mysql,git,github,linux,expressjs,postman,docker,github,bash,django,figma" />
 </p>
 
 ---
