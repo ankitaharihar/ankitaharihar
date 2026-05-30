@@ -44,7 +44,7 @@ A beginner-friendly platform covering HTML, CSS, Git, Linux, SEO, and CI/CD basi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaharihar&theme=tokyonight" />
