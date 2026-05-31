@@ -5,7 +5,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♀️ About Me.
 - 💻 Interested in Backend Development  
 - ⚙️ Exploring DevOps concepts  
 - 🛠️ Working with Git & GitHub  
